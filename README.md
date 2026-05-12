@@ -1,5 +1,5 @@
-Cet exercice est un exercice de gestions de contacts simple.Il a comme structure du projet
-- Contact.java : représente un contact
-- Contacts.java : gère la liste des contacts
-- Main.java : contient la méthode principale
-  il permet d afficher des contacts pre enregistre d une liste de contacts
+Cet exercice est un exercice de devinettes.Il consiste a deviner un nombre genrer automatiquement par le programme 
+l utilisateur devra : 
+-entrez un nombre 
+-Il aura 10chances pour deviner le nombre
+-Si il ne trouve pas il serra remercier et le programme affichera le nombre qu il a pas trouver
